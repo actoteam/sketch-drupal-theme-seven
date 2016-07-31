@@ -9,7 +9,8 @@ To use files you will need [sketchapp] (http://www.sketchapp.com/).
 ###Is Sketch available for Windows or Linux? 
 
 Due to the technologies and frameworks exclusive to OS X that Sketch has been built upon, regrettably we will not be considering supporting Sketch on either of these platforms.
-Source: [sketchapp/faq] (http://www.sketchapp.com/support/faq/)
+
+__Source:__ [sketchapp/faq] (http://www.sketchapp.com/support/faq/)
 
 
 
