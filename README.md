@@ -33,3 +33,26 @@ Select symbols using main navigation (easy way).
 <p align="center">
   <img src="https://raw.githubusercontent.com/LastPixelBorn/sketch-drupal-theme-seven/master/assets/Theme%20Seven%20step%203.jpg" alt="Step 2">
 </p>
+
+###Included elements list:
+
+- Typography
+- Text fields
+- Search field
+- Progress bar (secondary)
+- Image field
+- File field
+- Basic form controls (radio buttons, checkbox, select dropdown)
+- Buttons
+- Extended buttons (dropdown)
+- Small controls
+- Dropdown and popover
+- Fieldset
+- Table
+- Pagination
+- Details and accordion
+- Tabs
+- Nav list
+- Warning messages
+- Modal dialog
+- Overlay/popup
