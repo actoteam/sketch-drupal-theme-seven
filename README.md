@@ -1,6 +1,6 @@
-##Drupal 8 admin theme symbol library.
+##Drupal 8 seven theme symbol library.
 
-This is a collection of symbols for quickly mocking up Drupal web applications, created by Nenad Scuric and released under the GNU General Public License v3.0.
+This is a collection of symbols for quickly mocking up Drupal web applications, it is released under the GNU General Public License v3.0.
 
 
 ###Getting Started
