@@ -17,3 +17,6 @@ __Source:__ [sketchapp/faq] (http://www.sketchapp.com/support/faq/)
 
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LastPixelBorn/sketch-drupal-theme-seven/master/assets/Theme%20Seven%20step%201.jpg" alt="Step 1">
+</p>
