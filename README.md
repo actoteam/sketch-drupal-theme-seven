@@ -14,9 +14,22 @@ Due to the technologies and frameworks exclusive to OS X that Sketch has been bu
 
 __Source:__ [sketchapp/faq] (http://www.sketchapp.com/support/faq/)
 
+###How to use Sketch
 
-
-
+###Step 1
+Select and edit layers.
 <p align="center">
   <img src="https://raw.githubusercontent.com/LastPixelBorn/sketch-drupal-theme-seven/master/assets/Theme%20Seven%20step%201.jpg" alt="Step 1">
+</p>
+
+###Step 2
+Preview and edit all symbols.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LastPixelBorn/sketch-drupal-theme-seven/master/assets/Theme%20Seven%20step%202.jpg" alt="Step 2">
+</p>
+
+###Step 3
+Select symbols using main navigation (easy way).
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LastPixelBorn/sketch-drupal-theme-seven/master/assets/Theme%20Seven%20step%203.jpg" alt="Step 2">
 </p>
