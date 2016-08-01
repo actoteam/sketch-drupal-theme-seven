@@ -4,7 +4,7 @@ This is a collection of symbols for quickly mocking up Drupal web applications, 
 
 
 ###Getting Started
-To use files you will need [Sketch] (http://www.sketchapp.com/). Why do we use Sketch instead of Photoshop? It is very simple tool made for user interface design, it is 100% vector, created elements have reusable styles and in the end it is code-friendly. 
+To use files you will need [Sketch] (http://www.sketchapp.com/). Why do we use Sketch instead of Photoshop? It is very simple tool made for designing user interface, it is 100% vector, created elements have reusable styles and in the end it is code-friendly. 
 
 More about sketch [blog.mengto.com/sketch-vs-photoshop] (http://blog.mengto.com/sketch-vs-photoshop/).
 
